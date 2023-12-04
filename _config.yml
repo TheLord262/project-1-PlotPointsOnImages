@@ -2,6 +2,7 @@
 title: Proect-1
 description: A simple website generated with Jekyll
 url: "https://TheLord262.github.io"
+theme: jekyll-theme-minimal
 
 # Build settings
 destination: _site
