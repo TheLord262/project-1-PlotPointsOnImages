@@ -1,0 +1,18 @@
+# Site settings
+title: Proect-1
+description: A simple website generated with Jekyll
+url: "https://TheLord262.github.io"
+
+# Build settings
+destination: _site
+layout: default
+markdown: kramdown
+
+# Front Matter defaults
+defaults:
+  - scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "post"
+      author: "John Doe"
