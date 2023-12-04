@@ -12,7 +12,7 @@ markdown: kramdown
 # Front Matter defaults
 defaults:
   - scope:
-      path: ""
+      path: "scripts/index.html"
       type: "posts"
     values:
       layout: "post"
